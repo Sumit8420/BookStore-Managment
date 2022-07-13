@@ -1,4 +1,4 @@
-# BookStore-Managment
+# Book_Inventory_Managment
 
 # For Frontend 
 Used HTML & CSS
