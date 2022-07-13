@@ -12,7 +12,7 @@ Pycharm
 
 # For Google Book API 
 User terminal 
-1->django-admin startproject bookstore
+1->django-admin startproject bookstore /n
 2->cd bookstore
 3->django-admin startapp book
 
